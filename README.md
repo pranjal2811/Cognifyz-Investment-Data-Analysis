@@ -25,7 +25,7 @@ o	Calculate the average investment duration among participants.
 o	Summarize participants' expectations regarding returns from their investments.
 •	Task 10: Correlation Analysis
 o	Explore potential correlations between key factors like age, investment duration, and expected returns.
-# What I Did
+# Implementation Steps
 I utilized Python with popular libraries such as pandas for data manipulation, matplotlib.pyplot for data visualization, and seaborn for creating aesthetically pleasing statistical graphics.
 1.	Data Loading and Initial Inspection (Task 1):
 o	Loaded the Data_set 2 - Copy.csv file into a pandas DataFrame.
